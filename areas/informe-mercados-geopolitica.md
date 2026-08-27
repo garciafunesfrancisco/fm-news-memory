@@ -1,101 +1,101 @@
 # Memoria de seguimiento — Mercados y Geopolítica
 
-**Último informe:** `/informes/20260827-1218.md` (corrida 20260827-1218)
-**Última actualización de esta memoria:** 2026-08-27 12:18 ART
+**Último informe:** `/informes/20260827-1908.md` (corrida 20260827-1908)
+**Última actualización de esta memoria:** 2026-08-27 19:08 ART
 
 Este archivo registra acontecimientos en desarrollo (multi-ciclo) para dar continuidad entre corridas. Cada ítem lleva su estado más reciente y el historial breve de clasificaciones (NUEVO / ACTUALIZACIÓN / CONFIRMADO / DESMENTIDO / ESCALADA / DESACELERACIÓN / RESUELTO).
 
 ---
 
 ## 1. Crisis del Estrecho de Ormuz y guerra económica EE.UU.-Irán ("Operation Economic Outcast")
-- **Estado actual:** ACTUALIZACIÓN — datos de tracking naviero (Kpler, vía gCaptain y Foreign Policy Journal, 27/08) muestran tráfico bajo con leve variación día a día (10 buques de carga 26/08 vs 8 el 25/08; 121 cruces totales 17-23/08 vs 118 semana previa; ~6 tanqueros "AIS-dark" detectados por satélite), consistente con el patrón ya conocido de tráfico deprimido. Irán habría "bloqueado" (blacklisted) a 45 tanqueros acusados de violar reglas de tránsito. Se suma un nuevo incidente: ataque a un buque no identificado cerca de Khasab (Omán), en la boca del estrecho, ocurrido el 25/08 y divulgado por UKMTO el 27/08 (ver ítem 15).
-- **Impact Score:** 78 | **Confidence:** 72 (tendencia de tráfico deprimido confirmada por 2 fuentes de tracking independientes; estado operativo real del estrecho sigue siendo materia de disputa)
-- **Qué vigilar:** nuevos datos de tracking naviero; identificación del buque atacado cerca de Khasab; resultado de la propuesta de Qatar (corredor conjunto + desminado, ítem 12).
-- **Historial:** 20260823-1756: NUEVO. 20260823-1905 a 20260826-1913: ver informes previos. 20260827-0422: ACTUALIZACIÓN (contradicción de datos de tracking se profundiza). 20260827-1218: ACTUALIZACIÓN (tracking naviero actualizado, consistente con patrón previo; nuevo incidente en Khasab).
+- **Estado actual:** SIN CAMBIOS SUSTANCIALES en el tracking naviero general en esta ventana. Se aclaró que el ataque a un buque cerca de Khasab (25/08, item 15) es un incidente **distinto** del caso "Minoan Pioneer" (bulker liberiano IMO 9471630, 03/08, ya resuelto previamente) — no deben confundirse. La identidad del buque de Khasab y la atribución del ataque siguen sin confirmarse.
+- **Impact Score:** 78 | **Confidence:** 72
+- **Qué vigilar:** nuevos datos de tracking naviero; identificación del buque atacado cerca de Khasab; resultado de la propuesta de Qatar y del estado real del acuerdo Irán-Omán (ítem 12).
+- **Historial:** 20260823-1756: NUEVO. 20260823-1905 a 20260826-1913: ver informes previos. 20260827-0422: ACTUALIZACIÓN. 20260827-1218: ACTUALIZACIÓN (tracking naviero actualizado, nuevo incidente en Khasab). 20260827-1908: SIN CAMBIOS SUSTANCIALES (aclaración de que Khasab es distinto de Minoan Pioneer).
 
 ## 2. Fricción EE.UU.-China por sanciones a Irán (petróleo, bancos)
-- **Estado actual:** SIN CAMBIOS SUSTANCIALES — el Tesoro AÚN NO nombró la "institución financiera importante" china; Bessent declinó confirmar si apuntarán a bancos chinos grandes. "Operation Economic Outcast" sancionó ~60 entidades sin tocar bancos chinos de peso sistémico (Fortune, 26/08: "China's banks got a pass").
-- **Impact Score:** 74 | **Confidence:** 76
-- **Qué vigilar:** si finalmente se nombra una institución financiera china de peso sistémico; reacción de CNY y mercados de crédito.
-- **Historial:** 20260823-1905 a 20260826-1913: ver informes previos. 20260827-0422 y 20260827-1218: SIN CAMBIOS SUSTANCIALES (institución aún no nombrada).
+- **Estado actual:** ACTUALIZACIÓN — el Tesoro AÚN NO nombró la institución financiera china, pero se confirmó un efecto económico cuantificable: las importaciones chinas de crudo iraní cayeron a ~534.000 bpd en agosto vs. 823.000 bpd en julio (~-35%), posible señal de cautela anticipada de refinerías chinas ante el riesgo de sanciones secundarias. Cancillería china rechazó explícitamente "sanciones y presión".
+- **Impact Score:** 76 | **Confidence:** 74 (caída de importaciones confirmada por 2 fuentes; vínculo causal directo con la amenaza de sanciones es PROBABLE, no confirmado)
+- **Qué vigilar:** si finalmente se nombra una institución financiera china de peso sistémico; continuidad de la caída de importaciones en septiembre; reacción de CNY.
+- **Historial:** 20260823-1905 a 20260826-1913: ver informes previos. 20260827-0422 y 20260827-1218: SIN CAMBIOS SUSTANCIALES. 20260827-1908: ACTUALIZACIÓN (caída confirmada de importaciones chinas de crudo iraní).
 
 ## 3. Selloff en el tramo largo de Treasuries de EE.UU. e intervención del Tesoro
-- **Estado actual:** SIN CAMBIOS SUSTANCIALES — 10Y ~4,64-4,65%, retrocediendo desde el máximo de 20 meses de 4,75% del 21/08; sin dato fresco de 30Y ni confirmación nueva de uso de la TGA en esta ventana.
-- **Impact Score:** 74 | **Confidence:** 68
-- **Qué vigilar:** discurso de Warsh en Jackson Hole (28/08); próximas subastas de 10/30 años; confirmación oficial del uso de la TGA.
-- **Historial:** 20260823-1905 a 20260826-1913: ver informes previos. 20260827-0422 y 20260827-1218: SIN CAMBIOS SUSTANCIALES.
+- **Estado actual:** ACTUALIZACIÓN — el Tesoro (Bessent) subió el techo de recompras de bonos largos de US$2.000M a US$4.000M, interpretado por analistas como una fricción implícita con Warsh de cara a su discurso de mañana. Nivel de rendimientos CONTRADICTORIO entre fuentes en la tarde del 27/08 (una indica 10Y bajando a 4,645%/30Y a 5,161%; otra indica 10Y subiendo a ~4,66-4,67%).
+- **Impact Score:** 76 | **Confidence:** 65 (suba del techo de recompras confirmada; nivel de yields de la tarde sin reconciliar)
+- **Qué vigilar:** discurso de Warsh (28/08); reacción de yields; próximas subastas de 10/30 años; evolución de la fricción Bessent-Warsh.
+- **Historial:** 20260823-1905 a 20260826-1913: ver informes previos. 20260827-0422 y 20260827-1218: SIN CAMBIOS SUSTANCIALES. 20260827-1908: ACTUALIZACIÓN (suba del techo de recompras del Tesoro; contradicción en nivel de yields).
 
 ## 4. Transición de liderazgo en la Reserva Federal (Kevin Warsh) y Jackson Hole
-- **Estado actual:** ACTUALIZACIÓN — el símposium abrió formalmente el 27/08; el discurso central de Warsh es mañana 28/08, 10am ET (aún sin decidir si el foco será macro estructural o guía táctica). El día de apertura, funcionarios regionales mostraron tono dividido: Schmid (Kansas City) hawkish ("inflación stubborn/sticky", duda de qué se está restringiendo con la tasa actual); Goolsbee (Chicago) cauteloso pero preocupado (inflación +5 años sobre objetivo "disturbing", riesgos de energía/aranceles); Hammack (Cleveland) reiteró pedido de tasas más altas. Dato de empleo (claims 203k, -4.000) confirma mercado laboral ajustado. Probabilidades de suba en septiembre siguen con dispersión no reconciliada entre fuentes (CME FedWatch ~30-35%; Polymarket 53% vs. futuros SOFR 32%; otro agregador 34% septiembre/43% octubre).
-- **Impact Score:** 78 | **Confidence:** 70 (comentarios de funcionarios y dato de empleo confirmados; dispersión de probabilidades de mercado sigue sin resolverse)
-- **Qué vigilar:** discurso en Jackson Hole (28/08, 10am ET); evolución de probabilidades implícitas de mercado tras el discurso; panel de Lagarde/Bailey/Tamura (por Ueda) del sábado.
-- **Historial:** 20260823-1756 a 20260826-1913: ver informes previos. 20260827-0422: SIN CAMBIOS SUSTANCIALES. 20260827-1218: ACTUALIZACIÓN (apertura del símposium, funcionarios divididos, dato de empleo).
+- **Estado actual:** ACTUALIZACIÓN — se confirmaron declaraciones adicionales de funcionarios: Hammack (Cleveland) pidió explícitamente subir tasas "ya" ("now is the time to act"); Schmid (Kansas City), previamente hawkish, se matizó a "necesito un poco más de información" para septiembre; Goolsbee reiteró preocupación por inflación no controlada pero tendencia de 3 meses "no tan mala". Horario del discurso de Warsh confirmado: viernes 28/08, 10:00am ET, Jackson Lake Lodge. Sin filtraciones de contenido. Probabilidades implícitas de mercado para septiembre con dispersión AÚN MAYOR y no reconciliada (13,7% a ~60% según fuente) — se recomienda verificar directamente en CME Group.
+- **Impact Score:** 80 | **Confidence:** 68 (declaraciones de funcionarios y horario del discurso confirmados; probabilidades de mercado y nivel de yields sin reconciliar)
+- **Qué vigilar:** discurso en Jackson Hole (28/08, 10am ET); paneles de Lagarde/Bailey/Tamura del sábado; evolución de la fricción Bessent-Warsh.
+- **Historial:** 20260823-1756 a 20260826-1913: ver informes previos. 20260827-0422: SIN CAMBIOS SUSTANCIALES. 20260827-1218: ACTUALIZACIÓN (apertura del símposium, funcionarios divididos). 20260827-1908: ACTUALIZACIÓN (Hammack pide suba ya, Schmid se modera, tensión Bessent-Warsh).
 
 ## 5. Divergencia inflación-empleo en EE.UU. (riesgo de estanflación incipiente)
-- **Estado actual:** ACTUALIZACIÓN (leve) — claims semanales del 22/08 en 203.000 (-4.000, mercado laboral ajustado); PCE del 26/08 "sticky" (headline mensual +0,2% vs 0,1% esperado; interanual headline 3,7% vs 3,6% esperado; core interanual 3,3%), consistente con la tesis de divergencia entre empleo resiliente e inflación persistente.
+- **Estado actual:** SIN CAMBIOS SUSTANCIALES — no se detectaron nuevos datos válidos de empleo/inflación en esta ventana. Un dato de "jobless claims 232.000 vs 248.000 esperado" atribuido al 27/08 fue identificado como dato contaminado (fuente reciclada de 2022) y descartado; se mantiene como confirmado el dato de 203.000 del ciclo anterior.
 - **Impact Score:** 75 | **Confidence:** 80
 - **Qué vigilar:** discurso de Warsh (28/08); próximos datos de inflación/empleo de agosto.
-- **Historial:** 20260823-1756 a 20260826-1913: ver informes previos. 20260827-0422: SIN CAMBIOS SUSTANCIALES. 20260827-1218: ACTUALIZACIÓN (claims y PCE confirmados, consistentes con la tesis).
+- **Historial:** 20260823-1756 a 20260826-1913: ver informes previos. 20260827-0422: SIN CAMBIOS SUSTANCIALES. 20260827-1218: ACTUALIZACIÓN (claims y PCE confirmados). 20260827-1908: SIN CAMBIOS SUSTANCIALES (dato nuevo descartado por contaminación de fuente).
 
 ## 6. Marco arancelario UE-EE.UU. ("Turnberry deal")
 - **Estado actual:** SIN CAMBIOS. Vigente desde 01/07/2026.
 - **Impact Score:** 55 | **Confidence:** 90
 - **Qué vigilar:** implementación efectiva de compras comprometidas; posibles fricciones sectoriales.
-- **Historial:** 20260823-1756 a 20260827-0422: SIN CAMBIOS. 20260827-1218: SIN CAMBIOS.
+- **Historial:** 20260823-1756 a 20260827-1218: SIN CAMBIOS. 20260827-1908: SIN CAMBIOS.
 
 ## 7. Guerra comercial EE.UU.-Canadá (aranceles a autos 50%)
 - **Estado actual:** SIN CAMBIOS — sin novedades en esta ventana. Represalia canadiense "dólar por dólar" prevista para el 08/09.
 - **Impact Score:** 80 | **Confidence:** 88
 - **Qué vigilar:** posible tregua antes del 08/09; reacción de Trump/Carney; impacto en plantas automotrices.
-- **Historial:** 20260824-1908 a 20260827-0422: ver informes previos. 20260827-1218: SIN CAMBIOS.
+- **Historial:** 20260824-1908 a 20260827-1218: ver informes previos. 20260827-1908: SIN CAMBIOS.
 
 ## 8. NVIDIA — resultados 2T FY27, reacción de mercados y controles de exportación de chips a China
-- **Estado actual:** ACTUALIZACIÓN — se confirmaron con cita textual (2+ fuentes) los comentarios de Huang ("demand much greater than 70%... supply allows us to confidently deliver 70%") y Kress (cuello de botella de HBM persistirá al menos hasta FY2028, precios de memoria "extremos" y en alza, demanda de clientes se duplicaría el próximo año). Reacción premarket 27/08: NVDA +6/+7,6%, Micron +4,5%, SMH +3,5%, SOXX +3%; reacción DIVERGENTE: AMD ~-0,5% (atribuido a futuros generales, no a catalizador propio); Nikkei 225 cerró -0,20% (66.131,98, corregido y confirmado por 3 fuentes, lastrado por Advantest pese al guidance positivo); semis europeos con rally (Infineon +4%, STMicro +4,3%, ASMI +2%, BESI +1,07%), ASML CONTRADICTORIO entre fuentes (no reconciliado). Rumor no confirmado (una fuente afirma, otra desmiente) de compra de Hugging Face por US$12.900M.
-- **Impact Score:** 82 | **Confidence:** 78
-- **Qué vigilar:** cierre confirmado de sesión regular de EE.UU. del 27/08 (NVDA, AMD, TSMC, Broadcom, Micron); confirmación/desmentido del acuerdo Hugging Face; reconciliación del dato de ASML.
-- **Historial:** 20260823-1756 a 20260826-1218: ACTUALIZACIÓN (evento pendiente). 20260826-1913: RESUELTO (resultados reportados). 20260827-0422: ACTUALIZACIÓN (verificación de reacción de mercados). 20260827-1218: ACTUALIZACIÓN (citas textuales confirmadas, reacción sectorial divergente, rumor Hugging Face).
+- **Estado actual:** ACTUALIZACIÓN — NVDA cerró el 27/08 con suba CONFIRMADA de +8,7%/+8,74% (~US$227,98), acompañada de oleada de upgrades de precio objetivo (Wedbush, Rosenblatt, Raymond James, KeyBanc, DA Davidson). Se confirmó que la producción de DRAM/HBM de Samsung, SK Hynix y Micron está vendida en su totalidad hasta 2027, con Nvidia pidiendo aumentar la proporción de HBM4 de 8 capas. Divergencia estratégica revelada entre Samsung (apuesta a PIM) y SK Hynix (prioriza empaquetado). El rumor de compra de Hugging Face (US$12.900M) se reforzó en cobertura mediática (de "en conversaciones" a "acordaron") pero SIGUE SIN confirmación oficial de ninguna de las dos partes. ASML parcialmente reconciliado (~-0,60%, sin poder confirmar el +1,6% previo). AMD y Micron: CONTRADICTORIO entre fuentes sobre dirección/magnitud del cierre. Contradicción severa detectada sobre el cierre agregado de los índices de EE.UU. del 27/08 (alza generalizada vs. sesión roja pese al rally de NVDA) — sin reconciliar.
+- **Impact Score:** 82 | **Confidence:** 68 (alto en datos específicos de NVDA/HBM; bajo en la lectura agregada del mercado por la contradicción de cierre de índices)
+- **Qué vigilar:** verificación con fuente primaria del cierre real de la sesión del 27/08; confirmación/desmentido oficial de Hugging Face; reconciliación de AMD/Micron.
+- **Historial:** 20260823-1756 a 20260826-1218: ACTUALIZACIÓN (evento pendiente). 20260826-1913: RESUELTO (resultados reportados). 20260827-0422: ACTUALIZACIÓN. 20260827-1218: ACTUALIZACIÓN (citas textuales confirmadas, reacción sectorial divergente, rumor Hugging Face). 20260827-1908: ACTUALIZACIÓN (cierre +8,7% confirmado, HBM vendida hasta 2027, contradicción severa en cierre agregado de índices).
 
 ## 9. Tierras raras — controles chinos
 - **Estado actual:** SIN CAMBIOS en esta ventana.
 - **Impact Score:** 50 | **Confidence:** 75
 - **Qué vigilar:** vencimiento de la suspensión de medidas de oct-2025 (10/11/2026); nuevas ampliaciones del catálogo de licencias.
-- **Historial:** 20260823-1756 a 20260827-0422: SIN CAMBIOS. 20260827-1218: SIN CAMBIOS.
+- **Historial:** 20260823-1756 a 20260827-1218: SIN CAMBIOS. 20260827-1908: SIN CAMBIOS.
 
 ## 10. Marco arancelario EE.UU.-India
 - **Estado actual:** SIN CAMBIOS confirmados en esta ventana.
 - **Impact Score:** 40 | **Confidence:** 72
 - **Qué vigilar:** tasa efectiva total vigente; riesgo de fricción si India retoma compras de crudo ruso.
-- **Historial:** 20260823-1756 a 20260827-0422: ver informes previos. 20260827-1218: SIN CAMBIOS.
+- **Historial:** 20260823-1756 a 20260827-1218: ver informes previos. 20260827-1908: SIN CAMBIOS.
 
 ## 11. Rally del oro
-- **Estado actual:** ACTUALIZACIÓN (retroceso leve) — retrocedió a ~US$4.585-4.650/oz desde el rango US$4.600-4.660 previo, por dato de PCE "sticky" (26/08) y cautela pre-discurso de Warsh (mañana 28/08).
-- **Impact Score:** 55 | **Confidence:** 76
+- **Estado actual:** SIN CAMBIOS SUSTANCIALES — se mantiene ~US$4.590/oz, prácticamente estable, a la espera del discurso de Warsh de mañana.
+- **Impact Score:** 55 | **Confidence:** 70 (dato de nivel PROBABLE, sin cierre oficial reconciliado en esta ventana)
 - **Qué vigilar:** discurso de Warsh (28/08); continuidad de flujos ETF; continuidad de compras de bancos centrales.
-- **Historial:** 20260823-1905 a 20260827-0422: ver informes previos. 20260827-1218: ACTUALIZACIÓN (retroceso leve confirmado).
+- **Historial:** 20260823-1905 a 20260827-1218: ver informes previos. 20260827-1908: SIN CAMBIOS SUSTANCIALES.
 
 ## 12. Mediación entre EE.UU. e Irán (Pakistán, Qatar y Omán)
-- **Estado actual:** ACTUALIZACIÓN (propuesta concreta) — Qatar (canciller Al Thani) se reunió el 27/08 en Teherán con Araghchi y propuso un marco interino con contenido operativo: (a) corredor marítimo conjunto temporal Irán-Omán por Ormuz, (b) desminado conjunto del estrecho. Se conecta con el acuerdo Irán-Omán del 26/08 de reparto de aguas del corredor (vocero IRGC Mohebbi, quien acusó a EE.UU. de "obstruir" el proceso). La Casa Blanca reafirmó (27/08) que no tiene conversaciones directas con Irán. Mediación de Pakistán sigue sin producir una extensión formal confirmada del Memorando de Islamabad.
-- **Impact Score:** 58 | **Confidence:** 74
-- **Qué vigilar:** avance o rechazo de la propuesta de corredor/desminado; corroboración de EE.UU./Irán; resolución de la ventana de 60 días del Memorando de Islamabad.
-- **Historial:** 20260825-1218 a 20260827-0422: ver informes previos (NUEVO/ACTUALIZACIÓN). 20260827-1218: ACTUALIZACIÓN (propuesta operativa concreta de Qatar).
+- **Estado actual:** ACTUALIZACIÓN (contradicción interna iraní) — el IRGC había afirmado que Irán y Omán ya acordaron el reparto de aguas/ingresos del corredor de Ormuz, pero una fuente iraní de alto nivel dijo a Reuters que ese acuerdo "no está finalizado" — contradicción dentro del propio gobierno iraní. Además, el jefe de seguridad iraní Mohsen Rezaei declaró que Irán prepara una "lista de condiciones" para presentar a EE.UU. de cara a una eventual reapertura de Ormuz. La Casa Blanca reiteró que no tiene conversaciones directas con Irán y "no tiene apuro" ni cronograma.
+- **Impact Score:** 60 | **Confidence:** 65 (reunión y postura de EE.UU. confirmadas; estado real del acuerdo Irán-Omán CONTRADICTORIO)
+- **Qué vigilar:** clarificación oficial del estado del acuerdo Irán-Omán; contenido de la eventual "lista de condiciones" iraní; corroboración de EE.UU./Irán.
+- **Historial:** 20260825-1218 a 20260827-0422: ver informes previos. 20260827-1218: ACTUALIZACIÓN (propuesta operativa concreta de Qatar). 20260827-1908: ACTUALIZACIÓN (contradicción interna iraní sobre acuerdo con Omán; lista de condiciones).
 
 ## 13. Rally del uranio
 - **Estado actual:** SIN CAMBIOS SUSTANCIALES — sin novedades en esta ventana.
 - **Impact Score:** 45 | **Confidence:** 75
 - **Qué vigilar:** resolución del permiso oficial para la planta de Kazatomprom; reacción de mineras de uranio.
-- **Historial:** 20260825-1914 a 20260827-0422: ver informes previos. 20260827-1218: SIN CAMBIOS SUSTANCIALES.
+- **Historial:** 20260825-1914 a 20260827-1218: ver informes previos. 20260827-1908: SIN CAMBIOS SUSTANCIALES.
 
 ## 14. Ataques ucranianos con drones a refinerías rusas / represalia rusa masiva
-- **Estado actual:** ESCALADA — Rusia lanzó la noche del 26-27/08 su mayor oleada de ataques en meses contra 9 ciudades ucranianas (Kyiv, Kharkiv, Poltava, Odesa, Zaporizhzhia), calificada de "masiva" por su propio Ministerio de Defensa. Daño confirmado a infraestructura de granos en el puerto de Odesa (elevador/silo), edificios residenciales, escuelas y un centro médico; víctimas fatales en Zaporizhzhia y Kharkiv, 14+ heridos adicionales. La explosión reportada en la refinería de Ryazán (Rosneft, 27/08) sigue SIN confirmación de agencia internacional de primer nivel (solo medios ucranianos). Contexto diplomático paralelo: visita inusual del director de la CIA, Ratcliffe, a Moscú (25/08, primera desde 2021); Budanov (inteligencia militar ucraniana) declaró que podrían darse conversaciones Rusia-Ucrania en septiembre. Pese a la escalada, el petróleo sigue cayendo (cuarta sesión consecutiva).
-- **Impact Score:** 65 | **Confidence:** 78
-- **Qué vigilar:** confirmación independiente del ataque a Ryazán; evaluación de daño real a infraestructura de granos de Odesa y su impacto en exportaciones; contenido de la visita de Ratcliffe; confirmación/desmentido de conversaciones de septiembre.
-- **Historial:** 20260827-0422: NUEVO. 20260827-1218: ESCALADA (represalia rusa masiva, daño a infraestructura de granos, contexto diplomático paralelo).
+- **Estado actual:** ACTUALIZACIÓN — se confirmó el daño concreto al elevador de granos del puerto de Odesa (instalaciones, silos, garajes, vehículos) y al menos 2 muertos en el ataque general a las 9 ciudades. Se clarificó el propósito de la visita del director de la CIA, Ratcliffe, a Moscú (25/08): advertir a Rusia contra atacar a la OTAN y presionar para que corte su apoyo económico/militar a Irán. El Kremlin (Peskov) confirmó la visita pero aclaró que NO hubo reunión con Putin, calificándola de "prematura" para evaluar impacto. Se sumó el dato de que EE.UU. pidió a Ucrania pausar sus ataques de largo alcance sobre Moscú y San Petersburgo durante los días de la visita. La explosión reportada en la refinería de Ryazán (27/08) sigue SIN confirmación de agencia internacional de primer nivel.
+- **Impact Score:** 62 | **Confidence:** 75 (daño en Odesa y detalles de la visita de Ratcliffe confirmados por múltiples fuentes; propósito específico de la visita es PROBABLE, atribuido a fuentes no identificadas oficialmente)
+- **Qué vigilar:** si la pausa de ataques ucranianos de largo alcance se sostiene; confirmación independiente del ataque a Ryazán; nuevas señales de coordinación EE.UU.-Rusia sobre Irán.
+- **Historial:** 20260827-0422: NUEVO. 20260827-1218: ESCALADA (represalia rusa masiva, daño a infraestructura de granos). 20260827-1908: ACTUALIZACIÓN (daño a Odesa confirmado, propósito de visita CIA-Moscú clarificado, pedido de pausa de ataques).
 
 ## 15. Nuevo ataque a un buque cerca de Khasab (Omán), boca del Estrecho de Ormuz
-- **Estado actual:** NUEVO — UKMTO emitió un aviso oficial ("Attack 121-26") reportando que un tanquero no identificado fue alcanzado por un proyectil no identificado cerca de Khasab (Omán) a las 17:30 UTC del 25/08, provocando un incendio extinguido; tripulación segura, sin atribución del ataque. Divulgado/cubierto por medios recién el 27/08. Es un incidente distinto del Metro Venetian (24/08, que ya había reanudado operaciones).
-- **Impact Score:** 63 | **Confidence:** 68 (ataque confirmado por fuente primaria UKMTO + 4 medios; identidad del buque y atribución del ataque NO CONFIRMADAS)
+- **Estado actual:** SIN CAMBIOS SUSTANCIALES — sigue sin confirmarse la identidad oficial del buque, su bandera y la atribución del ataque. Se aclaró que este incidente es distinto del caso "Minoan Pioneer" (03/08, ya resuelto) — ver ítem 1.
+- **Impact Score:** 63 | **Confidence:** 68
 - **Qué vigilar:** identificación oficial del buque y su bandera; posible atribución del ataque; nuevos avisos de UKMTO.
-- **Historial:** 20260827-1218: NUEVO.
+- **Historial:** 20260827-1218: NUEVO. 20260827-1908: SIN CAMBIOS SUSTANCIALES (aclaración de que es distinto de Minoan Pioneer).
 
 ---
 *Este archivo debe releerse al inicio de cada corrida para detectar continuidad y clasificar correctamente cada acontecimiento (NUEVO/ACTUALIZACIÓN/CONFIRMADO/DESMENTIDO/ESCALADA/DESACELERACIÓN/RESUELTO).*
