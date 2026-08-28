@@ -1,7 +1,7 @@
 # Memoria de seguimiento — Mercados y Geopolítica
 
-**Último informe:** `/informes/20260828-0422.md` (corrida 20260828-0422)
-**Última actualización de esta memoria:** 2026-08-28 04:22 ART
+**Último informe:** `/informes/20260828-1223.md` (corrida 20260828-1223)
+**Última actualización de esta memoria:** 2026-08-28 12:23 ART
 
 Este archivo registra acontecimientos en desarrollo (multi-ciclo) para dar continuidad entre corridas. Cada ítem lleva su estado más reciente y el historial breve de clasificaciones (NUEVO / ACTUALIZACIÓN / CONFIRMADO / DESMENTIDO / ESCALADA / DESACELERACIÓN / RESUELTO).
 
@@ -14,10 +14,10 @@ Este archivo registra acontecimientos en desarrollo (multi-ciclo) para dar conti
 - **Historial:** 20260823-1756: NUEVO. Ver informes previos hasta 20260827-1908. 20260828-0422: SIN CAMBIOS SUSTANCIALES.
 
 ## 2. Fricción EE.UU.-China por sanciones a Irán (petróleo, bancos)
-- **Estado actual:** SIN CAMBIOS SUSTANCIALES — Bessent reiteró explícitamente que bancos chinos serán sancionados si "facilitan transacciones... que convierten petróleo iraní en dinero", pero el Tesoro AÚN NO nombró ninguna institución específica. Nuevo dato consistente con el ya confirmado: importaciones chinas de crudo iraní ~530.000 bpd en jul-ago (48% por debajo de niveles pre-guerra, 72% por debajo del pico de oct-2024).
-- **Impact Score:** 76 | **Confidence:** 75
-- **Qué vigilar:** si finalmente se nombra una institución financiera china; continuidad de la caída de importaciones en septiembre; reacción de CNY.
-- **Historial:** 20260823-1905 a 20260827-1908: ver informes previos. 20260828-0422: SIN CAMBIOS SUSTANCIALES (cita directa de Bessent, sin nombramiento de institución).
+- **Estado actual:** ACTUALIZACIÓN — se confirma que "Operation Economic Outcast" sancionó decenas de entidades chinas/HK menores pero evitó deliberadamente a los bancos chinos grandes. Nuevo contexto causal (interpretación, no declaración oficial): Trump prepara visita de estado de Xi Jinping a EE.UU. el 24/09, lo que ayudaría a explicar la moderación pese a la retórica de "onslaught económico". China respondió que actuará para "resguardar sus intereses".
+- **Impact Score:** 74 | **Confidence:** 78
+- **Qué vigilar:** si se nombra una institución financiera china (antes o después del 24/09); agenda previa a la cumbre; reacción de CNY.
+- **Historial:** 20260823-1905 a 20260827-1908: ver informes previos. 20260828-0422: SIN CAMBIOS SUSTANCIALES. 20260828-1223: ACTUALIZACIÓN (carve-out de bancos grandes confirmado; nexo con cumbre Trump-Xi del 24/09 como interpretación).
 
 ## 3. Selloff en el tramo largo de Treasuries de EE.UU. e intervención del Tesoro
 - **Estado actual:** ACTUALIZACIÓN — se confirmó por fuente primaria (home.treasury.gov) que el aumento del techo de recompras a US$4.000M por operación rige del 9/9 al 4/11; Bessent señaló que podría ampliarse aún más. Contexto agravante confirmado: el 30Y tocó 5,31% el 17/08, máximo desde 2007. El nivel intradía de la tarde del 27/08 sigue SIN reconciliar entre fuentes.
@@ -26,10 +26,10 @@ Este archivo registra acontecimientos en desarrollo (multi-ciclo) para dar conti
 - **Historial:** 20260823-1905 a 20260827-1908: ver informes previos. 20260828-0422: ACTUALIZACIÓN (fechas oficiales de recompras confirmadas por fuente primaria; máximo histórico del 30Y desde 2007 confirmado).
 
 ## 4. Transición de liderazgo en la Reserva Federal (Kevin Warsh) y Jackson Hole
-- **Estado actual:** ACTUALIZACIÓN — el discurso de Warsh (hoy, 28/08, 10:00am ET, Jackson Lake Lodge) sigue sin filtraciones de contenido; medios (CNBC, NPR, Axios) describen presión intensa sobre Warsh para clarificar su mensaje sobre inflación, tasas y relación Fed-Tesoro, dado el contexto de yields largos en máximos de casi 20 años. Es un EVENTO PENDIENTE, aún no ocurrido al momento de esta corrida.
-- **Impact Score:** 85 | **Confidence:** 78 (horario y contexto confirmados; contenido del discurso es por definición desconocido)
-- **Qué vigilar:** discurso en Jackson Hole (28/08, 10am ET — HOY); paneles de Lagarde/Bailey/Tamura del sábado; reacción de yields/DXY/oro/equities.
-- **Historial:** 20260823-1756 a 20260827-1908: ver informes previos. 20260828-0422: ACTUALIZACIÓN (confirmación de horario y contexto de mercado previo al discurso; evento aún pendiente).
+- **Estado actual:** RESUELTO (evento ocurrido) — Warsh pronunció su discurso (10:00am ET). Evitó dar forward guidance explícita, expresó preocupación por "tendencias subyacentes" de inflación sin mejorar, y defendió un régimen con menos guía explícita de la Fed. Reacción de mercado: 2Y +8pb a 4,314%, 30Y con sesgo bajista, oro retrocedió por debajo de US$4.600 (-0,5%), equities cerraron positivos (S&P +0,4%, Nasdaq +0,5%, Dow +0,3%). Interpretación del tono es CONTRADICTORIA entre medios (CNBC/CNN lo leen como advertencia sobre inflación; Yahoo Finance lo describe como reasegurador).
+- **Impact Score:** 85 | **Confidence:** 75 (contenido y citas confirmados por múltiples fuentes; interpretación de mercado aún no decantada)
+- **Qué vigilar:** paneles de Lagarde/Bailey/Tamura (sábado 29/08); si el aplanamiento de curva (2Y arriba/30Y abajo) persiste el lunes; reacción del DXY en próximos días.
+- **Historial:** 20260823-1756 a 20260827-1908: ver informes previos. 20260828-0422: ACTUALIZACIÓN (evento aún pendiente). 20260828-1223: RESUELTO (discurso ocurrido; reacción de mercado mixta/contradictoria en su interpretación).
 
 ## 5. Divergencia inflación-empleo en EE.UU. (riesgo de estanflación incipiente)
 - **Estado actual:** SIN CAMBIOS SUSTANCIALES — jobless claims de la semana del 22/08 reconfirmado en 203.000 (vs. 208.000 esperado), continuing claims en 1,778M. No hay datos nuevos de inflación en esta ventana.
@@ -50,10 +50,10 @@ Este archivo registra acontecimientos en desarrollo (multi-ciclo) para dar conti
 - **Historial:** 20260824-1908 a 20260827-1908: ver informes previos. 20260828-0422: ACTUALIZACIÓN (lista oficial de productos y alcance confirmados por fuente primaria).
 
 ## 8. NVIDIA — resultados 2T FY27, reacción de mercados y controles de exportación de chips a China
-- **Estado actual:** RESUELTO (contradicción de cierre) — el cierre de Wall Street del 27/08 quedó reconciliado con múltiples fuentes independientes: Nasdaq +1,31%, S&P 500 +0,66%, Dow +0,33%. El rumor de compra de Hugging Face (US$12.900M) sigue SIN acuerdo firmado confirmado (TechCrunch: "podría todavía caerse"). AMD/Micron: cifras exactas de cierre del 27/08 siguen SIN reconciliar.
-- **Impact Score:** 78 | **Confidence:** 75 (cierre de índices ahora confirmado; Hugging Face y AMD/Micron persisten sin resolución)
-- **Qué vigilar:** confirmación/desmentido oficial de Hugging Face; reconciliación de cierre de AMD/Micron; continuidad del rally tras el discurso de Warsh.
-- **Historial:** 20260823-1756 a 20260826-1218: ACTUALIZACIÓN (evento pendiente). 20260826-1913: RESUELTO (resultados reportados). 20260827-0422 a 20260827-1908: ACTUALIZACIÓN. 20260828-0422: RESUELTO (cierre de índices reconciliado); Hugging Face y AMD/Micron persisten sin resolución.
+- **Estado actual:** ACTUALIZACIÓN — cierres de AMD (-0,91% a US$472,35) y Micron (-0,32% a US$935,39) del 27/08 ahora reconciliados: ambos bajaron pese al rally general de Nasdaq, confirmando divergencia dentro del propio sector semis. El rumor de compra de Hugging Face (US$12.900M) sigue SIN acuerdo firmado confirmado por ninguna de las partes.
+- **Impact Score:** 60 | **Confidence:** 80 (cierres de AMD/Micron y de índices confirmados; Hugging Face persiste sin resolución)
+- **Qué vigilar:** confirmación/desmentido oficial de Hugging Face; si la divergencia AMD/Micron se profundiza o revierte; próximos resultados/guidance de memoria.
+- **Historial:** 20260823-1756 a 20260826-1218: ACTUALIZACIÓN (evento pendiente). 20260826-1913: RESUELTO (resultados reportados). 20260827-0422 a 20260827-1908: ACTUALIZACIÓN. 20260828-0422: RESUELTO (cierre de índices reconciliado); Hugging Face y AMD/Micron persisten sin resolución. 20260828-1223: ACTUALIZACIÓN (AMD/Micron reconciliados, ambos en baja; Hugging Face sigue sin confirmar).
 
 ## 9. Tierras raras — controles chinos
 - **Estado actual:** SIN CAMBIOS en esta ventana.
@@ -68,16 +68,16 @@ Este archivo registra acontecimientos en desarrollo (multi-ciclo) para dar conti
 - **Historial:** 20260823-1756 a 20260827-1908: ver informes previos. 20260828-0422: SIN CAMBIOS.
 
 ## 11. Rally del oro
-- **Estado actual:** SIN CAMBIOS SUSTANCIALES — ~US$4.594/oz (leve baja de ~US$11 vs. día previo), a la espera del discurso de Warsh de hoy.
+- **Estado actual:** SIN CAMBIOS SUSTANCIALES — retrocedió por debajo de US$4.600/oz (-0,5%) tras el discurso de Warsh, dentro del mismo rango (~US$4.594-4.608) ya visto en el ciclo anterior.
 - **Impact Score:** 55 | **Confidence:** 72
-- **Qué vigilar:** discurso de Warsh (28/08, HOY); continuidad de flujos ETF; continuidad de compras de bancos centrales.
-- **Historial:** 20260823-1905 a 20260827-1908: ver informes previos. 20260828-0422: SIN CAMBIOS SUSTANCIALES.
+- **Qué vigilar:** paneles de Lagarde/Bailey/Tamura (sábado); continuidad de flujos ETF; continuidad de compras de bancos centrales.
+- **Historial:** 20260823-1905 a 20260827-1908: ver informes previos. 20260828-0422: SIN CAMBIOS SUSTANCIALES. 20260828-1223: SIN CAMBIOS SUSTANCIALES (retroceso post-Warsh dentro del rango previo).
 
 ## 12. Mediación entre EE.UU. e Irán / acuerdo Irán-Omán sobre Ormuz
-- **Estado actual:** ACTUALIZACIÓN (persiste contradicción) — el IRGC mantiene su versión de acuerdo de reparto de aguas/ingresos con Omán, pero el comunicado conjunto de cancillerías solo confirma un "marco interino" sin mencionar tarifas, y el canciller iraní Araghchi no confirmó el anuncio del IRGC. Nuevo detalle operativo: corredor temporal conjunto de 11,3 km de ancho, plan de despeje de minas, seguido de negociaciones técnicas hacia administración conjunta permanente.
-- **Impact Score:** 65 | **Confidence:** 58 (detalles operativos confirmados por múltiples fuentes; estado real del acuerdo sigue CONTRADICTORIO)
-- **Qué vigilar:** confirmación oficial de Araghchi; definición de tarifas; ejecución del despeje de minas.
-- **Historial:** 20260825-1218 a 20260827-1908: ver informes previos. 20260828-0422: ACTUALIZACIÓN (detalles operativos del corredor temporal; contradicción persiste sin resolver).
+- **Estado actual:** ACTUALIZACIÓN (persiste contradicción) — Araghchi declaró que el acuerdo con Omán está "muy cercano", pero aclaró explícitamente que no implica reapertura del Estrecho. El canciller omaní expresó esperanza de anunciar pronto un corredor temporal. Persiste la divergencia entre la versión del IRGC (acuerdo ya alcanzado) y la cautela de la cancillería iraní.
+- **Impact Score:** 66 | **Confidence:** 62 (declaración directa de Araghchi confirmada; contenido final del acuerdo y tarifas sin definir)
+- **Qué vigilar:** anuncio formal del corredor temporal; definición de tarifas; ejecución del despeje de minas.
+- **Historial:** 20260825-1218 a 20260827-1908: ver informes previos. 20260828-0422: ACTUALIZACIÓN (detalles operativos del corredor temporal; contradicción persiste sin resolver). 20260828-1223: ACTUALIZACIÓN (declaración directa de Araghchi: "muy cercano", sin confirmar reapertura).
 
 ## 13. Rally del uranio
 - **Estado actual:** ACTUALIZACIÓN — Kazatomprom confirmó recorte de producción de ~10% para 2026 (balance oferta-demanda no justifica volver al 100% de capacidad); precio spot estable cerca de US$85-86/lb.
@@ -98,10 +98,10 @@ Este archivo registra acontecimientos en desarrollo (multi-ciclo) para dar conti
 - **Historial:** 20260827-1218: NUEVO. 20260827-1908: SIN CAMBIOS SUSTANCIALES. 20260828-0422: SIN CAMBIOS SUSTANCIALES.
 
 ## 16. Banco de Corea — ciclo de suba de tasas ligado al boom de semiconductores
-- **Estado actual:** NUEVO — el BOK subió su tasa base 25pb a 3,00% el 27/08, segunda suba consecutiva (tras julio), citando crecimiento robusto (proyección 3,3% anual) impulsado por el boom de semiconductores y contención de riesgos inflacionarios/de vivienda. Señaló que moderaría el ritmo de futuras subas. Nota relacionada: acciones de memoria coreana (SK Hynix) bajo presión en Asia el 28/08 pese al contexto positivo de demanda de HBM — divergencia a vigilar.
-- **Impact Score:** 62 | **Confidence:** 90 (alta convergencia entre fuentes: Bloomberg, Korea Herald, Korea JoongAng Daily, Seoul Economic Daily)
-- **Qué vigilar:** próxima reunión del BOK; reacción del KRW/KOSPI; si la divergencia en memoria coreana se profundiza o revierte.
-- **Historial:** 20260828-0422: NUEVO.
+- **Estado actual:** ACTUALIZACIÓN — el won coreano se fortaleció a 1.380,9/USD (+3,9 won) extendiendo la apreciación en el contexto del ciclo de suba del BOK y flujos hacia semis/HBM. La reacción de KOSPI/SK Hynix/Samsung a la suba del 27/08 aparece CONTRADICTORIA/mezclada entre fuentes en esta ventana (datos de distintas fechas se solaparon en la búsqueda); no se pudo reconciliar dirección precisa hoy.
+- **Impact Score:** 60 | **Confidence:** 75 (fortaleza del won confirmada con cifra específica; reacción bursátil de semis coreanos sin reconciliar)
+- **Qué vigilar:** próxima reunión del BOK; si la apreciación del won se sostiene; reconciliación de la reacción de KOSPI/SK Hynix a la suba del 27/08.
+- **Historial:** 20260828-0422: NUEVO. 20260828-1223: ACTUALIZACIÓN (won se fortalece a 1.380,9/USD; reacción bursátil de semis coreanos sigue sin reconciliar).
 
 ---
 *Este archivo debe releerse al inicio de cada corrida para detectar continuidad y clasificar correctamente cada acontecimiento (NUEVO/ACTUALIZACIÓN/CONFIRMADO/DESMENTIDO/ESCALADA/DESACELERACIÓN/RESUELTO).*
