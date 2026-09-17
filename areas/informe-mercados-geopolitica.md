@@ -1,11 +1,13 @@
 # Memoria de seguimiento — Mercados y Geopolítica
 
-**Último informe:** `/informes/20260916-1906.md` (corrida 20260916-1906)
-**Última actualización de esta memoria:** 2026-09-16 19:06 ART
+**Último informe:** `/informes/20260917-0406.md` (corrida 20260917-0406)
+**Última actualización de esta memoria:** 2026-09-17 04:06 ART
 
 **Nota:** entre la corrida del 20260828-1908 y la del 20260907-0419 hubo una brecha de 10 días sin ejecuciones del sistema; esta corrida (20260907-1215) retoma el ritmo normal de ciclos (~8 horas).
 
 **Nota de la corrida 20260913-1206 (vigente también en 20260913-1906):** WebFetch estuvo bloqueado por política de egreso de red del entorno para prácticamente todos los dominios de noticias primarios; toda la investigación se basó en WebSearch (snippets/agregadores), lo que degrada por defecto el nivel de verificación de la mayoría de los hallazgos de CONFIRMADO (fuente primaria) a PROBABLE, salvo alta corroboración cruzada multi-fuente independiente.
+
+**Nota de la corrida 20260917-0406 (falla total, más severa que la del 13/9):** tanto WebFetch como WebSearch estuvieron completamente inoperativos para investigación de mercados durante todo el ciclo — WebFetch devolvió `EGRESS_BLOCKED` o "unable to fetch" para todos los dominios probados (Reuters, Bloomberg, CNBC, BBC, Fed, BOE, Investing.com, Wikipedia), y WebSearch solo devolvió páginas estáticas genéricas sin datos de eventos actuales. NO se pudo verificar ni obtener ninguna información nueva en esta ventana. Todos los ítems de esta memoria permanecen sin cambios respecto del estado del informe 20260916-1906 — no reflejan la realidad entre 20260916-1906 y 20260917-0406, solo la ausencia de verificación. El próximo ciclo (12:00 ART) debe intentar recuperar la cobertura de esta ventana perdida (BOE 17/9, BOJ 18/9, Ormuz, Rusia-Ucrania, cierres de mercado) además de sus propias novedades.
 
 Este archivo registra acontecimientos en desarrollo (multi-ciclo) para dar continuidad entre corridas. Cada ítem lleva su estado más reciente y el historial breve de clasificaciones (NUEVO / ACTUALIZACIÓN / CONFIRMADO / DESMENTIDO / ESCALADA / DESACELERACIÓN / RESUELTO).
 
