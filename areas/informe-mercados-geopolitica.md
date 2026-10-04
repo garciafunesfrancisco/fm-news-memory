@@ -1,36 +1,38 @@
 # Memoria de seguimiento — Mercados y Geopolítica
 
-**Último informe:** `/informes/20261003-1907.md` (corrida 20261003-1907)
-**Última actualización de esta memoria:** 2026-10-03 19:07 ART
+**Último informe:** `/informes/20261004-0407.md` (corrida 20261004-0407)
+**Última actualización de esta memoria:** 2026-10-04 04:07 ART
 
-**Nota de la corrida 20261003-1907:** 3 subagentes en paralelo (geopolítica; macro/mercados; empresas/tecnología) vía WebSearch/WebFetch. Ventana de ~7h (12:07 a 19:07 ART del sábado 3/10). Sigue siendo sábado: sin sesión de Wall Street/Europa/Asia ni de futuros de commodities/bonos (reapertura recién domingo por la noche hora EE.UU.). Única excepción 24/7 real: Bitcoin. Hallazgos más importantes: (1) ESCALADA (de reivindicación) — los hutíes reivindicaron el ataque/incendio cerca de Aramco (antes no reivindicado) y acusaron a Arabia Saudita de ~26 ataques aéreos sobre Saná el mismo día (combate aéreo activo, no incidente aislado); Aramco/Riad siguen sin confirmar daño; (2) CONFIRMADO (de fuente única) — la reunión de Camp David del viernes 2/10 ahora está confirmada por múltiples medios (Axios original); Arabia Saudita pidió a EE.UU. unirse a ataques aéreos contra hutíes, Washington dice que "no va a tomar acción cinética por ahora" pero mantiene ~100 asesores militares dando inteligencia/targeting; (3) ACTUALIZACIÓN (mejor respaldo) — Trump rechazó formalmente la tregua de 7 días en Ormuz propuesta por Irán, Rubio ordenó a la delegación iraní retirarse de Nueva York; Araghchi exige fin total de la guerra, no cese parcial; vínculo FlyDubai-Irán sigue sin confirmar; (4) SIN NUEVA ESCALADA — Francia: el PS calificó el presupuesto 2027 de "inaceptable" (carta del 2/10) y mantiene amenaza de censura, sin moción formal presentada; (5) NUEVO — colapso de capitalización de Cerebras Systems (~20% en la semana, ~US$95.000M a ~US$39.000M) por pérdida de carga de inferencia de OpenAI hacia Nvidia; (6) NUEVO — Apple anunció que endurecerá controles de seguridad de macOS citando riesgos de agentes de IA autónomos, tras denuncia de acceso no autorizado de "Muse" (Meta) a mensajes privados de un periodista; (7) CONFIRMADO (declaración oficial) — Nvidia declaró que "el contrabando no es una opción" tras el caso Lui/Earthmade; legislación "AI Overwatch Act" sigue estancada en el Congreso; (8) ACTUALIZACIÓN (más detalle, sin cierre oficial) — estructura del sindicato Broadcom-Anthropic detallada por tramos (US$42.000M senior + US$18.000M junior liderado por Blackstone); (9) CONFIRMADO — Bitcoin se mantiene por encima del soporte US$82.000-82.600, estabilizado en ~US$84.600-85.200 tras el "weekend flush"; (10) SIN CAMBIOS — Fed (probabilidad de hike octubre ~20-22%), China-freno a exportaciones de combustible, Rusia-Ucrania, Taiwán, India-Rusia/Graham Act, Micron-YMTC, TSMC, RTX, niveles de mercado del cierre del viernes 2/10.
+**Nota de la corrida 20261004-0407:** 3 subagentes en paralelo (geopolítica; macro/mercados; empresas/tecnología) vía WebSearch/WebFetch. Ventana de ~9h (19:07 ART sábado 3/10 a 04:07 ART domingo 4/10). Madrugada de domingo en Argentina: sin sesión de Wall Street/Europa/Asia; futuros de EE.UU. (CME) confirmados cerrados hasta ~18:00 ET del domingo (después del cierre de esta ventana); oro/plata/cobre en días no hábiles (COMEX/LME cerrados). Única excepción 24/7 real: Bitcoin. Hallazgos más importantes: (1) DESMENTIDO (parcial, de parte interesada) — la coalición saudí calificó de "engañosas" las afirmaciones hutíes de haber golpeado la instalación cerca de Riad, sin que Aramco emita confirmación propia de ausencia/presencia de daño; (2) ESCALADA (nuevo frente) — hutíes dispararon 8 misiles balísticos contra Jizan (4 interceptados, confirmado por SPA), distinto del incidente de Aramco; fuerzas yemeníes progubernamentales corroboraron parcialmente nuevos bombardeos sobre Saná/Saada; (3) ESCALADA (nuevo incidente confirmado) — primer incidente naval UKMTO confirmado cerca de Omán (petrolero alcanzado por proyectil desconocido, sala de máquinas dañada); acusaciones iraníes (Fars News) de 2 tanqueros adicionales SIN corroborar; (4) ACTUALIZACIÓN — Araghchi aclaró que el rechazo de Trump a la tregua de Ormuz aún no fue comunicado formalmente a Irán vía mediadores; (5) CONTRADICTORIO (nuevo) — vínculo FlyDubai-Irán ahora explícitamente contradictorio entre EE.UU. (Trump sostiene sospecha) e Israel (funcionarios de seguridad lo descartan, Netanyahu dice "muy pronto"); (6) NUEVO — reunión OPEC+ JMMC de hoy domingo sobre cuotas de noviembre, resultado pendiente; (7) NUEVO (contexto macro) — acuerdo bipartidista Collins-Murray en el Senado de EE.UU. reduce a <1% (Polymarket) la probabilidad de shutdown de gobierno hasta el 11/12; (8) NUEVO — Tesla confirmó entregas Q3 de 486.532 unidades (-2,1% i.a.), Cybercab con fricción operativa persistente; (9) NUEVO (fecha no confirmada con precisión) — RTX obtuvo contrato naval plurianual de hasta US$24.400M por misiles SM-6, JPMorgan elevó precio objetivo a US$200; (10) ACTUALIZACIÓN (sin escalada legal) — disputa pública Apple/Meta sobre "Muse" (columna de Inc. vs. desmentido explícito de Meta); (11) SIN CAMBIOS — Francia (sin moción formal, dato de color no confirmado sobre posible abstención del RN), China-freno a exportaciones de combustible, Rusia-Ucrania, Taiwán, India-Rusia/Graham Act, Fed, Cerebras, Nvidia, Broadcom-Anthropic (sin cierre oficial), Bitcoin (consolidando ~US$84-85K), niveles de cierre del viernes 2/10.
 
 ---
 
 ## Hilos geopolíticos en desarrollo (seguimiento)
 
-### Arabia Saudita-hutíes/Yemen — ESCALADA (activo, alta relevancia para petróleo/shipping)
-- **ESCALADA (de reivindicación):** los hutíes reivindicaron el ataque/incendio cerca de la instalación de Aramco al sur de Riad (misiles balísticos + drones, represalia por ataques sauditas a Saná). Aramco/gobierno saudí SIGUEN sin confirmar oficialmente el incendio, su causa o daño real — reivindicación hutí marcada PROBABLE/CONTRADICTORIO (parte interesada).
-- **NUEVO/ESCALADA (combate activo):** hutíes acusaron a Arabia Saudita de lanzar ~26 ataques aéreos sobre Saná el mismo sábado 3/10 (explosiones corroboradas por periodistas en el terreno, sin confirmación oficial saudí).
-- **CONFIRMADO (antes PROBABLE, fuente única):** reunión secreta en Camp David (viernes 2/10, Vance+Rubio+Hegseth+Witkoff+Ratcliffe+Caine) ahora confirmada por múltiples medios (Axios, fuente original del scoop). Arabia Saudita pidió a EE.UU. unirse a ataques aéreos contra los hutíes; Washington dice que "no va a tomar acción cinética por ahora" (CBS/Axios), aunque EE.UU. ya mantiene ~100 asesores militares en Arabia Saudita dando inteligencia/targeting. Trump públicamente vago, sin anunciar decisión.
-- **SIN CAMBIOS:** ofensiva terrestre de ~100.000 efectivos (Reuters) sigue sin confirmación/desmentido oficial saudí, estimada "en semanas".
-- **Qué vigilar:** confirmación oficial saudí/Aramco del daño; decisión de EE.UU. sobre involucramiento aéreo directo; inicio de la ofensiva terrestre; nuevos ataques reivindicados.
+### Arabia Saudita-hutíes/Yemen — activo, múltiples frentes, alta relevancia para petróleo/shipping
+- **DESMENTIDO (parcial, de parte interesada):** la coalición saudí (Gral. Turki al-Maliki) calificó de "engañosas" las afirmaciones hutíes de haber golpeado la instalación cerca de Riad, acusándolos de buscar desviar la atención de sus pérdidas. Aramco/gobierno saudí NO emitieron confirmación propia de ausencia o presencia de daño real — persiste la falta de evidencia física independiente de cualquiera de las dos partes.
+- **ESCALADA (nuevo frente, confirmado por SPA):** los hutíes dispararon 8 misiles balísticos contra Jizan (sur de Arabia Saudita) el 3/10; defensa aérea saudí interceptó 4, sin víctimas ni daños reportados. Ataque distinto del incidente de Aramco.
+- **ACTUALIZACIÓN (corroboración parcial, parte interesada):** fuerzas yemeníes progubernamentales (aliadas a la coalición saudí) confirmaron nuevos ataques aéreos sobre Saná y Saada, corroborando parcialmente (no en magnitud exacta) los ~26 ataques que los hutíes denunciaron en el ciclo anterior.
+- **SIN DECISIÓN PÚBLICA:** Camp David (viernes 2/10) — un funcionario dijo a Axios que ciertas cuestiones "se decidieron o al menos se discutieron a fondo", sin detalle público ni comunicado de la Casa Blanca. Sigue sin confirmarse si EE.UU. se unirá a ataques aéreos contra los hutíes.
+- **SIN CAMBIOS:** ofensiva terrestre de ~100.000 efectivos (Reuters) sigue sin confirmación/desmentido oficial saudí.
+- **Qué vigilar:** evidencia física/comunicado oficial de Aramco sobre el estado de la instalación; nuevos ataques reivindicados; decisión de EE.UU. sobre involucramiento aéreo directo; inicio de la ofensiva terrestre.
 
-### Irán-EE.UU. — activo, de máxima relevancia para petróleo
-- **ACTUALIZACIÓN (mejor respaldo de fuentes, antes matización de fuente única):** Trump rechazó formalmente la propuesta iraní de tregua de 7 días en Ormuz (reabrir el estrecho + diálogo nuclear a cambio de levantar bloqueo naval, exención de sanciones y cese del fuego incl. Líbano), calificándola "inaceptable" (CBS News/EA Worldview). Rubio habría ordenado a la delegación iraní (incl. Araghchi) retirarse de Nueva York.
-- **ACTUALIZACIÓN:** Araghchi (vía Fars News, fuente iraní) responde que Irán "no aceptará un cese del fuego [parcial]; la guerra debe terminar" — endurece la postura respecto a la "matización" del ciclo anterior.
-- **SIN CAMBIOS:** vínculo del incidente FlyDubai (copiloto identificado como Hamam al-Hammami, ciudadano omaní de 29 años, vetado por Oman Air en 2024) con Irán sigue SIN CONFIRMAR.
-- **SIN CAMBIOS:** sin nuevo incidente UKMTO en Ormuz/Golfo de Omán en esta ventana; tercer portaaviones (USS Theodore Roosevelt) + fuerza anfibia en tránsito, llegada estimada noviembre, sin novedad.
+### Irán-EE.UU. — activo, de máxima relevancia para petróleo, con primer incidente naval confirmado
+- **ESCALADA (nuevo incidente confirmado, UKMTO/Marina británica):** petrolero alcanzado por "proyectil desconocido" ~4 millas náuticas al este de Omán el 3/10; sala de máquinas dañada, tripulación ilesa. Primer incidente naval confirmado desde el inicio de este seguimiento (ciclos previos reportaban explícitamente ausencia de nuevos incidentes).
+- **NO CONFIRMADO (sin corroborar, parte interesada):** Fars News alegó que "dos tanqueros más" explotaron en Ormuz el mismo día (transpondedores apagados); cifras totales de tanqueros golpeados desde el 1/10 son CONTRADICTORIAS entre fuentes (entre 3 y 5 según cuál se cite).
+- **ACTUALIZACIÓN (matiza cierre diplomático total del ciclo anterior):** Araghchi (Telegram) declaró que Irán "no retrocederá", acusó a Trump de declaraciones contradictorias, y aclaró que el rechazo de Trump a la tregua de Ormuz AÚN no fue comunicado oficialmente a Irán por canales de mediación — Teherán esperaría esa comunicación formal antes de su próximo paso.
+- **CONTRADICTORIO (nuevo, entre aliados EE.UU.-Israel):** vínculo FlyDubai-Irán — Trump reitera sospecha de vínculo iraní sin evidencia presentada; funcionarios de seguridad israelíes lo descartan explícitamente y creen que el copiloto omaní actuó solo; Netanyahu dice que es "muy pronto para saberlo".
 - **SIN DATO NUEVO:** rial iraní, sin cifra actualizada en esta ventana.
-- **Qué vigilar:** contrapropuesta iraní; nuevo incidente naval; confirmación/desmentido de vínculo FlyDubai-Irán.
+- **Qué vigilar:** nuevos incidentes navales confirmados por UKMTO; comunicación formal del rechazo de EE.UU. vía mediadores; nueva evidencia (EE.UU./Israel) sobre el vínculo FlyDubai-Irán.
 
-### Francia — crisis fiscal/spread OAT-Bund — SIN NUEVA ESCALADA (amenaza se mantiene)
-- **ACTUALIZACIÓN (sin escalada formal):** el PS envió carta a Lecornu (2/10) calificando el presupuesto 2027 de "inaceptable", exigiendo "justicia fiscal"; mantiene amenaza de censura sin presentar moción formal. RN dudaría en provocar caída del gobierno (interpretación de analistas, no declaración oficial).
-- **SIN CAMBIOS:** spread OAT-Bund se mantiene elevado (~130-140pb) sin salto adicional verificado en esta ventana.
+### Francia — crisis fiscal/spread OAT-Bund — SIN NUEVA ESCALADA FORMAL
+- **SIN CAMBIOS:** Olivier Faure (PS) reiteró que "si nada cambia, la censura está asegurada" — amenaza, sin moción formal presentada en esta ventana.
+- **DATO DE COLOR NO CONFIRMADO:** el RN evaluaría abstenerse en lugar de censurar directamente, para negociar concesiones sin otorgar apoyo expreso (análisis de un medio especializado, no postura oficial confirmada del RN).
+- **SIN CAMBIOS:** spread OAT-Bund se mantiene elevado (~130-140pb), sin dato nuevo verificado en esta ventana (fin de semana).
 - **Qué vigilar:** presentación formal de moción de censura; postura efectiva del RN; apertura de mercados europeos el lunes 5/10.
 
-### China — freno a exportaciones de combustible — SIN CAMBIOS (confirmado, Bloomberg)
-- CONFIRMADO (Bloomberg 1/10, oilprice.com): PetroChina canceló embarques de octubre de gasolina/jet fuel; Zhejiang Petrochemical sin embarques durante Golden Week. Freno de facto (no decreto NDRC/MOFCOM explícito). Golden Week corre hasta aprox. 7-8/10.
+### China — freno a exportaciones de combustible — SIN CAMBIOS (confirmado)
+- CONFIRMADO: PetroChina y Zhejiang Petrochemical mantienen la suspensión de facto de embarques de octubre (gasolina/jet fuel) durante la Golden Week (hasta ~7-8/10); sin anuncio gubernamental oficial de suspensión ni de fecha de reanudación.
 - **Qué vigilar:** confirmación oficial o reanudación de permisos tras el fin de la Golden Week.
 
 ### Graham Act / India-China — SIN CAMBIOS
@@ -41,35 +43,41 @@
 
 ### Taiwán — sin escalada, sin novedad en esta ventana
 
+### OPEC+ — NUEVO hilo, resultado pendiente
+- Reunión virtual del JMMC programada para hoy domingo 4/10 sobre cuotas de producción de noviembre. Expectativa previa (no confirmada): mantener sin cambios, tras rollover septiembre→octubre. Resultado aún no publicado al cierre de esta ventana.
+- **Qué vigilar:** comunicado oficial de la OPEC+; reacción de futuros de petróleo al reabrir el domingo por la noche.
+
 ### G7/AIE — liberación de reservas estratégicas — SIN CAMBIOS (confirmado en ciclos previos)
 
 ---
 
 ## Hilos de mercados/macro en desarrollo
 
-- **Bitcoin — CONFIRMADO (único mercado 24/7 real):** ~US$84.600-85.200 (rango 24h ~US$83.900-85.238), confirmando que se mantiene por encima del soporte clave US$82.000-82.600 tras el "weekend flush" (rechazo en ~US$87.100, ~US$433,6M en liquidaciones forzadas en 24h, ~75% en posiciones largas).
-- **Fed — SIN CAMBIOS:** probabilidad de hike octubre ~20-22% (CME FedWatch), consistente con ~22,7% del ciclo anterior. Probabilidad de diciembre CONTRADICTORIA entre fuentes de baja fiabilidad — no confirmada.
-- **Bancos centrales/datos económicos — SIN NOVEDAD** en esta ventana (esperado un sábado).
-- **Futuros de EE.UU. para el lunes 5/10 — NO DISPONIBLE AÚN** (reapertura domingo por la noche).
-- **Petróleo — PROBABLE (mercados cerrados):** Brent ~US$102,3, WTI ~US$91 (agregadores), en línea con el cierre del viernes ya reportado; sin dato en vivo verificable.
-- **Oro — contexto:** ~US$4.140/onza (cierre viernes), ~26% debajo del pico histórico de enero 2026 (~US$5.608); JPMorgan proyecta hasta US$6.300 para fin de año. Posible divergencia con la narrativa de escalada geopolítica (ver señales tempranas del informe).
+- **Bitcoin — CONFIRMADO (único mercado 24/7 real):** ~US$84.700-84.875 (volumen 24h ~US$6,3-14,7B según agregador), consolidando en el mismo rango lateral ~US$84-85K ya reportado, con resistencia en ~US$88K. Sin catalizador nuevo detectado.
+- **Fed — SIN CAMBIOS:** sin declaraciones nuevas de funcionarios ni cambios en probabilidades de hike de octubre (~20-22%, consistente con ciclos previos).
+- **Riesgo de shutdown de gobierno EE.UU. — NUEVO (contexto, reduce riesgo de cola):** acuerdo bipartidista Collins-Murray financia al gobierno hasta el 11/12; Polymarket pricea <1% de probabilidad de shutdown.
+- **Futuros de EE.UU. — CONFIRMADO CERRADOS:** CME Globex reabre recién ~18:00 ET del domingo (~19:00-20:00 ART), después del cierre de esta ventana. Sin dato de apertura todavía.
+- **Petróleo — PROBABLE (mercados cerrados):** sin dato intradía real; catalizador pendiente es la reunión OPEC+ (ver arriba). Pronósticos no confirmados ubican a WTI en rango US$87,30-92,47 para el lunes.
+- **Oro/plata/cobre — SIN DATO NUEVO:** 3-4/10 confirmados como días no hábiles (COMEX/LME cerrados); oro se mantiene en ~US$4.140,21/oz (cierre viernes); JPMorgan proyecta hasta US$6.300 para fin de año.
 - **DXY/EUR-USD/UST/equities — SIN DATO NUEVO**, se mantienen niveles de cierre del viernes 2/10.
 
 ---
 
 ## Hilos de empresas/tecnología en desarrollo
 
-- **Nvidia — ACTUALIZACIÓN:** declaración oficial pública ("el contrabando no es una opción", The Register 2/10) en respuesta al caso Lui/Earthmade; legislación "AI Overwatch Act" (Rep. Brian Mast) sigue estancada en comité.
-- **Broadcom-Anthropic — ACTUALIZACIÓN (más detalle, sin cierre oficial):** estructura del sindicato de ~US$60.000M detallada por tramos: US$42.000M senior (BofA/Citi/Morgan Stanley, vía prospecto IPO de Anthropic) + US$18.000M junior liderado por Blackstone.
-- **Cerebras Systems — NUEVO, CONFIRMADO:** acción cayó ~20% en la semana (capitalización ~US$95.000M en el debut a ~US$39.000M) tras perder carga de inferencia de OpenAI hacia Nvidia, coincidiendo con liberación de lock-up (~19,4M acciones, ~8% del total).
-- **Apple/Meta "Muse" — NUEVO, CONFIRMADO:** Apple anunció que endurecerá controles de "Full Disk Access" en macOS citando riesgos de agentes de IA autónomos, tras denuncia de acceso no autorizado de "Muse" a mensajes privados de un periodista. Hosting de Muse en AMD EPYC Turin sigue sin confirmación oficial de Meta (sin cambio).
-- **Tesla — SIN CAMBIOS significativo:** Cybercab en Austin con mes "accidentado" (demoras, fallas de puertas); Roadster reveal 15/10 como próximo catalizador.
-- **TSMC — SIN CAMBIOS:** MOEA taiwanés reconfirmó apoyo a expansión doméstica frente a Singapur.
-- **Micron vs. YMTC — SIN CAMBIOS:** sin novedad procesal nueva.
-- **RTX — SIN CAMBIOS:** sin contratos nuevos en esta ventana.
+- **Tesla — NUEVO (dato corporativo confirmado):** entregas Q3 de 486.532 unidades (-2,1% i.a.); Cybercab en Austin (169 unidades autorizadas) con fricción operativa persistente; Roadster reveal confirmado 15/10.
+- **RTX — NUEVO (fecha no confirmada con precisión):** contrato naval plurianual de hasta US$24.400M por misiles SM-6; JPMorgan elevó precio objetivo a US$200.
+- **Apple/Meta "Muse" — ACTUALIZACIÓN (disputa pública, sin escalada legal):** columna de Inc. (Jason Aten) alega sincronización no autorizada de Messages hasta fila 187.462 pese a Full Disk Access desactivado; Meta (vocero Andy Stone) lo niega explícitamente, afirma que requiere 3 pasos explícitos. Sin demanda formal confirmada.
+- **Broadcom-Anthropic — SIN CIERRE OFICIAL (sin cambios):** sindicato de ~US$60.000M sigue "en proceso de síndicación" (US$42.000M senior + US$18.000M junior liderado por Blackstone, ~US$9.000M ya comprometido).
+- **Cerebras Systems — SIN NOVEDAD NUEVA en esta ventana:** ventas de insiders (COO ~US$80,8M, CFO ~US$6,6M) corresponden a transacciones del 29/9 ya conocidas por el contexto del lock-up.
+- **Nvidia — SIN NOVEDAD NUEVA en esta ventana:** reinstalación como "top pick" de Morgan Stanley es previa a esta ventana (2/10); AI Overwatch Act sigue estancada en el Congreso.
+- **TSMC — SIN CAMBIOS.**
+- **Micron vs. YMTC — SIN CAMBIOS.**
+- **Lockheed Martin — SIN NOVEDAD MATERIAL:** llamada de resultados confirmada para el 22/10.
+- **Berkshire Hathaway / JPMorgan — SIN NOVEDAD MATERIAL nueva.**
 - **Lontium / export controls China-Taiwán — SIN CAMBIOS.**
 - **Datacenters/IA (OpenAI/Oracle/Microsoft) — SIN CAMBIOS.**
-- **Apple/ASML/Lockheed Martin/JPMorgan/Berkshire Hathaway/ExxonMobil/Chevron/Alphabet/Amazon/Microsoft:** sin novedad material nueva en esta ventana (ángulo de este informe).
+- **Apple/ASML/ExxonMobil/Chevron/Alphabet/Amazon/Microsoft:** sin novedad material nueva en esta ventana (ángulo de este informe).
 
 ---
 
