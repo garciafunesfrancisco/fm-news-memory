@@ -1,86 +1,80 @@
 # Memoria de seguimiento — Mercados y Geopolítica
 
-**Último informe:** `/informes/20261004-1906.md` (corrida 20261004-1906)
-**Última actualización de esta memoria:** 2026-10-04 19:06 ART
+**Último informe:** `/informes/20261005-0423.md` (corrida 20261005-0423)
+**Última actualización de esta memoria:** 2026-10-05 04:23 ART
 
-**Nota de la corrida 20261004-1906:** 3 subagentes en paralelo (geopolítica; macro/mercados; empresas/tecnología) vía WebSearch/WebFetch. Ventana de ~7h (12:07 ART a 19:06 ART, domingo 4/10), coincidiendo casi exactamente con la reapertura de CME Globex (~18:00 ET/~19:00 ART) tras el cierre de fin de semana — por lo que gran parte de los datos de mercado reflejan el último cierre confirmado del viernes 2/10 más que movimientos ya verificados de la reapertura. Varias fuentes (Bloomberg, Reuters, Yahoo Finance, Gulf News, TradingView, CNBC parcialmente) estuvieron bloqueadas por el proxy de red del entorno. Hallazgos más importantes: (1) ESCALADA/CONTRADICTORIO — Al-Alimi confirmó ofensiva gubernamental de ~100.000 tropas en Yemen, pero simultáneamente los hutíes avanzaron sobre Taiz (tomaron Al-Safiya, cortaron ruta Taiz-Adén), +133.000 desplazados; narrativa oficial de "recuperación de territorio" en contradicción con avance hutí real; (2) CONFIRMADO (nuevo) — doble freno a exportación de diésel: Rusia extendió su prohibición hasta el 31/10 (Putin/Novak, TASS), sumado al freno chino (PetroChina/Zhejiang) vigente hasta fin de Golden Week; (3) ACTUALIZACIÓN — Ormuz: UKMTO sigue reportando incidentes, Qalibaf reafirmó las 7 condiciones, pero Irak transitó un VLCC de 2M de barriles por el Estrecho por primera vez en décadas (señal mixta de adaptación logística); (4) CONTRADICTORIO/NO CONFIRMADO con DESMENTIDO PARCIAL — hutíes alegaron ataque a Aramco en Riad/Khurais; coalición saudí lo calificó de "engañoso"; intercepciones en Jizan/Khamis Mushait sí confirmadas; (5) ACTUALIZACIÓN — FlyDubai: tendencia hacia hipótesis de que el sospechoso (Hamam al-Hammami) "actuó solo", menos vínculo con Irán; (6) ACTUALIZACIÓN — Francia: PS calificó presupuesto 2027 de "inaceptable", RN lo llamó "humillación", sin censura formal aún; discrepancia sin reconciliar en la cifra del ajuste (€43.000M vs €54.000M); OAT-Bund spread >130pb, superando a Italia/Grecia; (7) NUEVO/CONFIRMADO — sanciones OFAC a sectores automotriz/ferroviario de Irán ("Operation Economic Outcast"); (8) NUEVO comentario de Fed (Hammack: "todavía hay tiempo" para evaluar próximo movimiento de tasas); (9) ESCALADA — Apple anunció que endurecerá controles de privacidad en macOS tras denuncias de que Meta Muse leyó ~187.000 líneas de historial de iMessage sin consentimiento; Meta niega acceso no autorizado; (10) SIN CAMBIOS — OPEC+ (resuelto, cuotas de noviembre sin cambios), China (freno a combustibles), Graham Act/India, Ucrania, Taiwán, Camp David/rol de EE.UU. en Yemen, ECB/BOE/BOJ/PBOC, riesgo de shutdown EE.UU., Tesla/Nvidia/AMD/ASML/TSMC/RTX/Lockheed/bancos/energía/megacaps sin novedad material nueva en esta ventana; Bitcoin consolidando ~US$84.700-85.400.
+**Nota de la corrida 20261005-0423:** 3 subagentes en paralelo (geopolítica; macro/mercados; empresas/tecnología) vía WebSearch/WebFetch. Ventana de ~9h (19:06 ART domingo 4/10 a 04:23 ART lunes 5/10), madrugada en Argentina/EE.UU. con Asia ya operando. Varios dominios de primer nivel (Bloomberg, Reuters directo, CNBC directo, TradingEconomics, FXStreet, Yahoo Finance) bloqueados por el proxy de red; se usó convergencia de fuentes secundarias donde no fue posible el acceso directo. El subagente de macro advirtió sobre resúmenes de IA con fechas mezcladas en varias búsquedas — todo lo incluido fue cruzado contra ≥2 fuentes. Hallazgos más importantes: (1) ESCALADA (CONFIRMADO) — estrés fiscal Francia-España empujó al EUR/USD a mínimo de 17 meses (~1,1161-1,1235), DXY ~102,4; spread OAT-Bund 130-150pb, riesgo NUEVO de elección anticipada en España (señal de baja confianza, a verificar); (2) NUEVO/CONFIRMADO — AMD superó capitalización de US$1 billón (acuerdo Oracle 50.000 GPUs MI450, adquisición de World Labs por US$8.200M); (3) ESCALADA (CONFIRMADO parcial) — Ormuz: 4to incidente de octubre (buque *Lipsi*), tránsito iraquí de VLCC con 2M de barriles confirmado; (4) CONFIRMADO — capex combinado de Microsoft/Alphabet/Amazon/Meta supera US$700.000M, escasez estructural de memoria/HBM (DRAM spot +~700% YoY); (5) CONFIRMADO — ASML/TSMC con order books llenos y capex elevado antes de resultados (14-15/10); (6) ESCALADA (CONFIRMADO) — Yemen: hutíes tomaron Al-Turbah, Taiz cercada pero no caída, retirada confirmada del PLC; (7) NUEVO — EE.UU. retiró bombarderos B-1 de RAF Fairford (UK) por sospecha de complot vinculado a Irán (NO CONFIRMADO el vínculo); (8) ACTUALIZACIÓN — FlyDubai: confesión reportada de Al-Hammami (objetivo Israel, radicalización en Siria), sin vínculo estatal iraní confirmado; (9) NO CONFIRMADO/A VERIFICAR — posible hike de la Fed el 16/9 (25pb a 3,75-4,00%), hallazgo de fuentes secundarias con riesgo de contaminación de fechas, contradice ausencia de mención en ciclos previos; (10) CONFIRMADO — Nvidia autorizó buyback récord de US$150.000M; Apple con veredicto de US$5.700M (Taction, patentes hápticas) y rumor de "HomePad"; RTX con contrato Navy de US$24.400M (SM-6); (11) SIN CAMBIOS — Aramco/Riad (contradictorio sin resolver), Rusia-diésel, China-combustibles, OFAC-Irán, Camp David, OPEC+, Graham Act/India-Rusia, Ucrania, Taiwán, shutdown EE.UU. (confirmado sin riesgo, financiado hasta 11/12), Bitcoin ~US$85.500, commodities sin cambios materiales, Broadcom-Anthropic (sigue en sindicación, sin cierre).
 
 ---
 
 ## Hilos geopolíticos en desarrollo
 
 ### Yemen (ofensiva terrestre vs. avance hutí en Taiz) — ESCALADA, activo, alta relevancia para petróleo/shipping
-- **ESCALADA (CONFIRMADO):** Al-Alimi confirmó ofensiva de ~100.000 tropas yemeníes con apoyo saudí para recuperar territorio hutí.
-- **CONTRADICTORIO (nuevo, no reconciliado):** simultáneamente, los hutíes tomaron Al-Safiya y cortaron la ruta Taiz-Adén, acercándose a cercar Taiz (tercera ciudad del país). +133.000 desplazados (ACNUR/ONU), en aumento. La narrativa oficial de "recuperación de territorio" no coincide con los reportes de avance hutí sobre el terreno.
-- **Qué vigilar:** control efectivo de Taiz en los próximos días; confirmación independiente de la escala real de la ofensiva gubernamental; reacción saudí/internacional.
+- **ESCALADA (CONFIRMADO):** fuerzas hutíes tomaron Al-Turbah (sur de Taiz) tras retirada confirmada del Consejo de Liderazgo Presidencial (PLC) — primera vez desde 2014 que los hutíes controlan esa localidad. Ruta Taiz-Adén cortada; Taiz (3ra ciudad del país) efectivamente sitiada pero **no caída** — combates concentrados en Jabal Han. Gobierno yemení declaró "ofensiva mayor" de reconquista con apoyo saudí comprometido.
+- **Qué vigilar:** si Taiz cae bajo control hutí; si la ofensiva gubernamental logra reabrir la ruta; reacción saudí/internacional.
 
-### Arabia Saudita-Hutíes/Aramco — CONTRADICTORIO, con desmentido parcial — activo
-- **NO CONFIRMADO, con DESMENTIDO PARCIAL:** hutíes alegaron ataques con misiles/drones contra instalaciones de Aramco en Riad y Khurais; portavoz de la coalición saudí (Turki al-Maliki) calificó la alegación de "engañosa", afirmando haber interceptado 6 misiles dirigidos a Taif/Yanbu sin daño a Aramco. Testigos reportaron humo cerca de una instalación, sin confirmación oficial de SPA/Aramco.
-- **CONFIRMADO (separado):** intercepciones en Jizan/Khamis Mushait (2 misiles+4 drones el 1/10; 3 misiles adicionales el 3/10), con cifras que siguen variando entre fuentes.
-- **Qué vigilar:** comunicado oficial de SPA/Aramco que confirme o desmienta el ataque a Riad/Khurais.
+### Arabia Saudita-Hutíes/Aramco — CONTRADICTORIO, sin resolver — activo
+- **NO CONFIRMADO, con DESMENTIDO PARCIAL (sin cambios):** hutíes insisten en que el ataque a instalaciones Aramco en Riad "logró sus objetivos"; coalición saudí lo califica de "engañoso". **Aramco no ha emitido comunicado** confirmando ni negando daños, pese a humo/fuego visible reportado por testigos.
+- **Qué vigilar:** comunicado oficial de SPA/Aramco.
 
-### Irán-EE.UU./Estrecho de Ormuz — ACTUALIZACIÓN, máxima relevancia para petróleo
-- **CONFIRMADO (persiste):** UKMTO sigue reportando incidentes con proyectiles no identificados contra buques en Ormuz, sin atacante identificado.
-- **CONFIRMADO (sin cambio sustancial):** Qalibaf reafirmó que Ormuz no reabrirá hasta cumplirse las 7 condiciones del Memorando de Islamabad.
-- **NUEVO/CONFIRMADO (señal mixta):** Iraq Oil Tankers Co. transitó un VLCC con 2M de barriles por el Estrecho — primera operación de este tipo en décadas. Podría ser señal de adaptación logística regional, sin resolver el riesgo de fondo (hipótesis, no confirmado como tendencia).
-- **ACTUALIZACIÓN (FlyDubai):** fuentes israelíes consideran "probable que actuó solo" el sospechoso (Hamam al-Hammami, trasladado a Abu Dabi); tendencia hacia menos vínculo confirmado con Irán que en ciclos previos (Trump mantiene sospecha sin evidencia presentada).
-- **Qué vigilar:** nuevos incidentes UKMTO; si otros operadores siguen el ejemplo iraquí; evidencia forense adicional sobre FlyDubai.
+### Irán-EE.UU./Estrecho de Ormuz — ESCALADA, máxima relevancia para petróleo
+- **ESCALADA (CONFIRMADO):** UKMTO confirmó que el petrolero *Lipsi* (bandera liberiana) fue impactado por un "proyectil desconocido" el 4/10 (daño en sala de máquinas, tripulación segura) — **4to incidente de octubre** tras el *Uhud* (2/10) y otro buque (3/10). Sin atribución oficial del atacante.
+- **CONFIRMADO (detalle ampliado):** Irak transitó un VLCC con 2 millones de barriles por el Estrecho con permiso iraní — primera operación de este tipo en décadas. Señal de posible adaptación logística regional (hipótesis, no confirmado como tendencia).
+- **CONFIRMADO (sin cambio):** Qalibaf reafirma las 7 condiciones del Memorando de Islamabad para reabrir el Estrecho.
+- **ACTUALIZACIÓN (FlyDubai):** investigaciones indican que el copiloto Hamam al-Hammami habría confesado intención de estrellar la aeronave contra un objetivo en Israel, radicalizado en Siria; sin vínculo estatal iraní confirmado — tendencia reforzada hacia "actuó solo".
+- **Qué vigilar:** nuevos incidentes UKMTO; si Arabia Saudita/EAU/Kuwait siguen el ejemplo iraquí; evidencia forense adicional sobre FlyDubai.
 
-### Camp David/rol de EE.UU. — SIN CAMBIOS (PROBABLE, sin comunicado oficial)
-- Axios reporta que EE.UU. "no se unirá por ahora" a ataques cinéticos directos contra los hutíes; MBS pidió dos veces a Trump (10/9) atacar directamente y fue rechazado. Apoyo no cinético se mantiene (inteligencia, objetivos compartidos). Sin comunicado oficial de la Casa Blanca.
-- **Qué vigilar:** comunicado oficial que confirme o desmienta; cambio de postura hacia acción cinética directa.
+### Reino Unido-Irán — RAF Fairford — NUEVO, a vigilar
+- **NUEVO (CONFIRMADO la retirada, NO CONFIRMADO el vínculo iraní):** EE.UU. redesplegó ~12 bombarderos B-1 desde RAF Fairford (UK) a bases en EE.UU. tras presunto complot con explosivos cerca de la base (5 arrestados el 27/9, liberados sin cargos). PM británico Burnham dice tener "fuertes indicios" de involucramiento iraní; Irán lo niega, sin evidencia pública presentada.
+- **Qué vigilar:** evidencia forense del complot; respuesta/represalia de Reino Unido; declaración oficial iraní adicional.
 
-### Francia — crisis fiscal — ACTUALIZACIÓN (sin censura formal aún)
-- **ACTUALIZACIÓN:** tras la presentación del presupuesto 2027, PS lo calificó "inaceptable" (sin presentar censura formal); RN (Bardella) lo llamó "broma de mal gusto"/"humillación" (sin moción propia). OAT 10 años ~4,96-5%, spread OAT-Bund >130pb, superando a Italia y Grecia; deuda 121,7% del PIB.
-- **CONTRADICTORIO (sin reconciliar):** cifra del ajuste fiscal citada como €43.000M (algunas fuentes) vs. €54.000M (informe anterior/otras fuentes).
-- **Qué vigilar:** presentación de moción de censura formal (PS o RN); reacción de mercados europeos/OAT al abrir el lunes; fuente oficial única que reconcilie la cifra del ajuste.
+### Francia-España — crisis fiscal — ESCALADA cuantitativa, sin cambio cualitativo político
+- **CONFIRMADO:** EUR/USD cayó a mínimo de 17 meses (~1,1161-1,1235), DXY ~102,4. OAT a 10 años ~4,9-5,0%, spread OAT-Bund 130-150pb (el más ancho desde 2011-2012 según algunas fuentes), deuda pública francesa 119,3-121,7% del PBI.
+- **CONTRADICTORIO (sin reconciliar, persiste):** cifra del ajuste fiscal francés citada mayoritariamente como €54.000M en esta ventana, sin fuente que reconcilie con los €43.000M de ciclos previos.
+- **NO CONFIRMADO (NUEVO, señal de baja confianza):** riesgo de elección anticipada en España detectado como factor adicional de presión sobre el euro — requiere verificación con fuentes primarias españolas/europeas en el próximo ciclo.
+- **SIN CAMBIO cualitativo:** PS/LFI/verdes/comunistas amenazan censura contra el presupuesto 2027 de Lecornu, pero **ninguna moción formal depositada** aún.
+- **Qué vigilar:** depósito formal de censura; confirmación/desmentido del riesgo español; reacción de agencias de rating; apertura de mercados europeos.
 
 ### China — freno a exportaciones de combustible — SIN CAMBIOS (confirmado)
-- CONFIRMADO: suspensión de facto de PetroChina/Zhejiang Petrochemical sigue vigente hasta el fin de la Golden Week (~7-8/10), sin anuncio oficial de reanudación.
+- CONFIRMADO: suspensión de facto de PetroChina/Zhejiang Petrochemical sigue vigente hasta el fin de la Golden Week (~7/10), sin anuncio oficial de reanudación.
 
-### Rusia — extensión de prohibición de exportación de diésel — NUEVO (confirmado)
-- CONFIRMADO (TASS, fuente oficial rusa): prohibición extendida hasta el 31/10/2026. Putin: no se venderá a mercados globales mientras duren las sanciones. Novak deja abierta posibilidad de reapertura parcial si hay sobreproducción.
-- **Qué vigilar:** spread de crack de diésel asiático/europeo; señales de reapertura parcial rusa.
+### Rusia — prohibición de exportación de diésel — SIN CAMBIOS (confirmado)
+- CONFIRMADO: prohibición extendida hasta el 31/10/2026 se mantiene. Novak deja abierta posibilidad de reapertura parcial si hay sobreproducción.
 
-### Sanciones EE.UU.-Irán (sectores automotriz/ferroviario) — NUEVO (confirmado, fuente primaria)
-- CONFIRMADO: OFAC/Tesoro de EE.UU. ("Operation Economic Outcast", 1/10) sancionó Iran Khodro/IKCO, Saipa, Pars Khodro, Zamyad, RAI, Raja y proveedores en Turquía, EAU, Indonesia y Hong Kong.
+### Sanciones EE.UU.-Irán (sectores automotriz/ferroviario) — SIN ESCALADA
+- CONFIRMADO: "Operation Economic Outcast" con lista actualizada el 2/10, sin escalada cualitativa nueva.
 
-### OPEC+ — RESUELTO (sin cambios)
-- CONFIRMADO: cuotas de noviembre sin cambios (7 miembros núcleo); producción núcleo ~5 Mbd debajo del nivel prebélico por el cierre efectivo de Ormuz desde el 28/2/2026. Próximo punto de control: revisión de líneas base de capacidad en noviembre.
-
-### Graham Act / India-Rusia — SIN CAMBIOS
-- India sigue comprando ~1,742M bpd de crudo ruso (~1/3 de sus importaciones) pese al plazo del 18/10; asesor de Modi (Mishra) dice que India contrarresta tarifas/sanciones vía diversificación comercial.
-
-### Rusia-Ucrania — SIN CAMBIOS
-- Ataques de drones rusos continúan sobre Kiev; Alemania anunció €1.460M en ayuda (drones interceptores). Sin cambio estructural.
-
-### Taiwán — SIN CAMBIOS
-- Funcionarios de EE.UU. consideran invasión improbable en 2027; Taiwán destrabó presupuesto de defensa para drones. Evaluación (desde junio) de penalizar exportación no autorizada de chips avanzados a China sigue sin resolución.
+### OPEC+ — RESUELTO (sin cambios) / Graham Act-India / Ucrania / Taiwán / Camp David — SIN CAMBIOS
+- Sin desarrollos nuevos relevantes detectados en esta ventana para ninguno de estos hilos.
 
 ---
 
 ## Hilos de mercados/macro en desarrollo
 
-- **Bitcoin — SIN CAMBIOS (único mercado 24/7 real):** ~US$84.700-85.400 (Coinbase/CoinGecko/CoinDesk convergen), market cap ~US$1,71T; rechazado en resistencia ~US$87-88K; cayó a ~US$84.600 el 3/10 tras liquidar US$433M en largos.
-- **Fed — NUEVO comentario:** Hammack (Fed Cleveland) dijo que "todavía hay tiempo" para evaluar el próximo movimiento de tasas; payrolls de septiembre (+29.000, desempleo 4,2%) calificado como "en línea" con la tendencia. Sin cambio de política.
-- **ECB/BOE/BOJ/PBOC — SIN REUNIÓN:** próximas reuniones ECB/BOE 29/10, BOJ 30/10, PBOC 20/10.
-- **Riesgo de shutdown de gobierno EE.UU. — SIN CAMBIOS:** financiado hasta el 11/12, sin indicio de riesgo inminente.
-- **Futuros de EE.UU. (CME Globex) — PROBABLE/NO CONFIRMADO:** reapertura (~18:00 ET/~19h ART) cae dentro de esta ventana; sin dato confirmado del movimiento en los primeros minutos. Cierre previo (viernes 2/10): Dow +0,5%, S&P 500 +0,75%, Nasdaq +1,2% (Nvidia a récord intradiario), tras payrolls más débiles de lo esperado.
-- **Petróleo (WTI/Brent) — PROBABLE/NO CONFIRMADO reapertura:** cierre viernes WTI ~US$90,82-91,11 (-1,9%), Brent ~US$102,25-102,61. Catalizadores pendientes: OPEC+ sin cambio de cuotas + alegación no confirmada de ataque a Aramco.
-- **Oro/plata/cobre — SIN CAMBIOS, sin dato de reapertura:** oro ~US$4.140/oz (presionado por rendimientos UST elevados), plata ~US$60,4/oz, cobre ~US$6,49/lb.
-- **DXY/EUR-USD/USD-JPY/UST — SIN CAMBIOS, dato de cierre viernes:** DXY ~101,6-102 (cerca de máximo 2 meses); UST 10 años ~5,28%; EUR/USD ~1,1330; USD/JPY ~157,82.
-- **Futuros Asia (lunes) — PROBABLE:** Nikkei proyectado +1,9%, ASX 200 SPI +0,3%.
+- **EUR/USD/DXY — ESCALADA:** EUR/USD en mínimo de 17 meses (~1,1161-1,1235) por crisis fiscal Francia-España; DXY ~102,4.
+- **Fed — NO CONFIRMADO/A VERIFICAR:** hallazgo de esta corrida (fuentes secundarias, riesgo de contaminación de fechas) sugiere hike de 25pb el 16/9/2026 a 3,75-4,00%, con odds de otro hike el 28/10 en ~17-23%. **Contradice la ausencia de mención en ciclos previos** (que solo registraban comentarios de Hammack sobre "todavía hay tiempo"). Verificar con fuente primaria (federalreserve.gov) en el próximo ciclo antes de tratar como hecho.
+- **Riesgo de shutdown EE.UU. — SIN CAMBIOS (confirmado):** financiado hasta el 11/12, sin riesgo inminente.
+- **ISM Services PMI EE.UU. (septiembre) — PENDIENTE:** no publicado al momento de esta investigación (calendario 14:00 UTC), vigilar próximas horas.
+- **Asia — CONFIRMADO:** Nikkei +2,5% intradía (~70.037, máx. 3 meses) por rally IA/chips y yen débil; Hang Seng plano; Shanghai/Kospi cerrados por feriados (Golden Week/feriado sustituto Corea).
+- **Commodities — SIN CAMBIOS MATERIALES:** oro ~US$4.140-4.161/oz, plata ~US$61,4/oz, cobre ~US$6,57/lb, WTI/Brent prácticamente planos vs. cierre del viernes.
+- **Bitcoin — SIN CAMBIOS:** ~US$85.500, sin ruptura de resistencia ~US$87-88K.
+- **UST 10 años — SIN CAMBIOS:** ~5,3%.
+- **VIX — DATO NO DISPONIBLE** para esta ventana; último confirmado 15,31 (2/10).
+- **ECB/BOE/BOJ/PBOC — SIN REUNIÓN:** próximas fechas ECB/BOE 29/10, BOJ 30/10, PBOC 20/10.
 
 ---
 
 ## Hilos de empresas/tecnología en desarrollo
 
-- **Apple-Meta "Muse" — ESCALADA (CONFIRMADO parcial):** Apple anunció que endurecerá controles de privacidad en macOS tras denuncias de que Muse leyó ~187.000 líneas de historial de iMessage sin consentimiento; Meta niega acceso no autorizado, sostiene integración "enteramente opt-in". Sin demanda formal. Posible precedente regulatorio para agentes de IA de terceros en plataformas de Apple.
-- **Broadcom-Anthropic — SIN CIERRE OFICIAL (sin cambios):** financiamiento ~US$60.000M sigue "en proceso de síndicación" (tramo senior US$42.000M + tramo junior US$18.000M vía Blackstone).
-- **Tesla — SIN NOVEDAD GENUINA EN ESTA VENTANA:** entregas Q3 (486.532, sobre consenso) y fecha de resultados (21/10) son datos previos al ciclo anterior.
-- **Nvidia — SIN NOVEDAD GENUINA:** caso de contrabando de chips a China (Earthmade Computer, ~US$300M) es previo (1-2/10), sin desarrollo nuevo en esta ventana.
-- **AMD/ASML/TSMC/RTX/Lockheed Martin/Cerebras — SIN NOVEDAD VERIFICADA NUEVA** en esta ventana. ASML reporta 14/10, TSMC 15/10 — catalizadores a vigilar el próximo ciclo.
-- **JPMorgan/Berkshire Hathaway/ExxonMobil/Chevron/Microsoft/Alphabet/Amazon/Meta (corporativo) — sin novedad material nueva.**
+- **AMD — NUEVO/ESCALADA (CONFIRMADO):** superó capitalización de US$1 billón (2/10); acuerdo Oracle (>50.000 GPUs MI450 desde Q3 2026, parte del pacto AMD-OpenAI de 6GW/US$90.000M); adquisición de World Labs (Fei-Fei Li) por US$8.200M en acciones, cierre esperado fin de 2026.
+- **Nvidia — ACTUALIZACIÓN (CONFIRMADO):** buyback récord de US$150.000M autorizado (28/9), total remanente US$235.000M hasta FY2028. Cap. de mercado ~US$5,5 billones.
+- **Cerebras — señal de baja confianza (PROBABLE, fuente secundaria/X):** habría perdido workload de inferencia de OpenAI (GPT-6.1 Sol) hacia Nvidia; acción -20% en la semana; CEO/CTO vendieron >US$240M tras vencimiento de lock-up. Verificar con fuente primaria.
+- **Capex de hyperscalers + escasez memoria/HBM — NUEVO (CONFIRMADO):** Microsoft/Alphabet/Amazon/Meta elevan capex combinado 2026 a US$700.000-745.000M; DRAM spot +~700% YoY; SK Hynix/Samsung con capacidad HBM "esencialmente vendida" para 2026.
+- **ASML/TSMC — ACTUALIZACIÓN (CONFIRMADO):** order books llenos, capex elevado (TSMC US$60.000-64.000M 2026), antes de resultados del 14/10 (ASML) y 15/10 (TSMC).
+- **Apple — ACTUALIZACIÓN (CONFIRMADO/PROBABLE):** veredicto de US$5.700M a favor de Taction Technology (patentes hápticas, 25/9), Apple apelará; rumor no oficial de "HomePad" (13/10). Caso Muse sin demanda formal ni acción regulatoria nueva; Apple añadirá control que marca solicitudes de agentes de IA en Mac.
+- **RTX — ACTUALIZACIÓN (CONFIRMADO):** contrato Navy de US$24.400M para misiles SM-6 (1-2/10); modificación de US$511,5M para radares AN/SPY-6(V). Lockheed Martin sin contrato nuevo comparable, sigue elevando dividendo.
+- **Broadcom-Anthropic — SIN CIERRE OFICIAL (sin cambios):** financiamiento ~US$60.000M sigue "en proceso de sindicación" (tramo senior US$42.000M + tramo junior US$18.000M vía Blackstone).
+- **JPMorgan/ExxonMobil/Berkshire Hathaway/Tesla — sin novedad material nueva** más allá de guidance de gasto JPM (~US$105.000M, PROBABLE) y downgrade de XOM por Wells Fargo.
 
 ---
 
